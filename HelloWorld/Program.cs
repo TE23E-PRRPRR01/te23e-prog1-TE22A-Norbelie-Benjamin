@@ -7,6 +7,6 @@ Console.WriteLine("Vad gillar du att göra på din fritid?");
 string fritid = Console.ReadLine();
 Console.WriteLine(fritid + ", gud vilken kul aktivitet");
 
-Console.ForegroundColor = ConsoleColor.DarkCyan;
+Console.ForegroundColor = ConsoleColor.Cyan;
 Console.BackgroundColor = ConsoleColor.DarkRed;
 Console.WriteLine("Kollade du på OS i Paris? vilken sport var din favorit?");
